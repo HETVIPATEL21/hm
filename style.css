@@ -1,0 +1,135 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    background-color: #9edeea;
+    height: 80vh;
+    line-height: 2;
+    color: #2104ff;
+}
+
+.box {
+    text-align: center;
+    position: relative;
+    top: 200px;
+}
+
+.cloud {
+    display: flex;
+    height: 50vh;
+    width: 100vw;
+    align-items: center;
+    position: absolute;
+
+}
+
+.cloud1 {
+    position: relative;
+    top: -60px;
+    left: 400px;
+}
+
+.cloud2 {
+    position: relative;
+    top: -60px;
+    left: 600px;
+}
+
+.cloud3 {
+    position: relative;
+    top: 100px;
+    left:580px;
+}
+.cloud4
+{
+    position: relative;
+    bottom:  100px;
+    left: 600px;
+}
+.cloud5
+{
+    position: relative;
+    top: 200px;
+    right: 400px;   
+}
+.cloud6
+{
+    position: relative;
+    top: 200px;
+    right:600px;  
+}
+.cloud7
+{
+    position: relative;
+    right:10px;
+    right:500px;  
+}
+.cloud8
+{
+    position: relative;
+    top: 200px;
+    right:300px;  
+}
+.middle_container
+{
+    margin-top:20px;
+    padding:20px;
+   text-align: center;
+}
+.abc
+{ 
+    margin: 5%;
+    text-align: center;
+    font-size: 20px;
+    line-height: 2; 
+    font-family: 'Dancing Script', cursive;
+}
+.skills 
+{
+    margin:10px;
+    text-align: center;
+    font-size: 20px;
+    line-height: 2;
+    color:#3d9ced;
+}
+.skill-row
+{
+    margin:4%;
+    padding:4px;
+    text-align: center;
+    font-size: 20px;
+    line-height: 2;
+    font-family: cursive;
+}
+.A
+{
+    text-align: center;
+    font-family: cursive;
+    font-size: 25px;
+    color:cadetblue;
+    
+}
+.bottom_container
+{
+    margin:0%;
+    padding:2px;
+    text-align: center;
+    font-size: 25px;
+    font-family: serif,cursive,sans-serif;
+}
+.id
+{
+    margin: 20px;
+    padding: 20px;
+    text-align: center;;
+    font-size: 30px;
+    color:cadetblue; 
+}
+
+
+
+
