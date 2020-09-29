@@ -82,11 +82,12 @@
 }
 .abc
 { 
-    margin: 5%;
-    text-align: center;
+    margin:0;
+    padding: 30px;
     font-size: 20px;
     line-height: 2; 
     font-family: 'Dancing Script', cursive;
+    text-align: center;
 }
 .skills 
 {
@@ -121,13 +122,21 @@
     font-size: 25px;
     font-family: serif,cursive,sans-serif;
 }
+.fotter
+{
+    text-align: center;
+    font-size: 25px;
+    background-color: #ecf4f3;
+    position:relative;
+}
 .id
 {
-    margin: 20px;
+    margin:10;
     padding: 20px;
     text-align: center;;
     font-size: 30px;
     color:cadetblue; 
+    background-color: #ffd5cd;
 }
 
 
